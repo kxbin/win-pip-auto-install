@@ -4,6 +4,7 @@ A batch script in windows 10 to automatic install 'python pip environment'
 
 Win10下的一个用来自动安装 python pip 环境的批处理脚本
 
+
 使用方法：
 
 1、windows 下如果是在 python 官网下载的 zip 版的环境，是不会自带 pip 和 setuptools 环境的，除非使用的是 exe 版的安装包，因此以下方法仅对 zip 版使用
